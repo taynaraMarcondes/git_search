@@ -169,7 +169,7 @@
 	color: rgba(26, 35, 91, 0.49);
 }
 
-.contentContainer img {
+.contentContainer svg {
 	height: 75px;
 	width: 75px;
 }
