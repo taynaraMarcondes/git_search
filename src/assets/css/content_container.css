@@ -1,0 +1,182 @@
+.contentContainer {
+	position: absolute;
+	width: 978px;
+	height: 1050px;
+	display: flex;
+	justify-content: center;
+	left: 462px;
+}
+
+.contentContainer h2 {
+	margin-left: 85px;
+	margin-bottom: 24px;
+}
+
+.profileContainer {
+	position: sticky;
+	width: 767px;
+	height: 319px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+	border-radius: 8px;
+	margin-left: 105px;
+	cursor: pointer;
+	display: flex;
+	color: #1C255C;
+}
+
+.profileContainer label {
+	width: 79px;
+	height: 16px;
+	background: content-box;
+
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 12px;
+}
+
+.profileContainer img {
+	position: absolute;
+	width: 196px !important;
+	height: 196px !important;
+	border-radius: 95px;
+	left: 76px;
+	top: 60px;
+}
+
+.profileContainer p {
+	width: 377px;
+	height: 32px;
+
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.profileContainer .bio {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	background: content-box;
+	margin-top: 30px;
+	-webkit-box-orient: vertical;
+}
+
+.profileContainer .profileData {
+	width: 377px;
+	height: 87px;
+	margin-top: 30px;
+	background: #F5F5F5;
+	border-radius: 8px;
+	align-content: center;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.profileContainer .profileData div {
+	justify-items: center;
+	margin-left: 30px;
+	display: grid;
+	background: content-box;
+}
+
+.profileContainer span {
+	width: 37px;
+	height: 19px;
+	background: content-box;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.repoContainer {
+	width: 170px;
+	height: 159px;
+	margin-left: 29px;
+	margin-bottom: 45px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+	border-radius: 8px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.repoContainer .description {
+	display: -webkit-box;
+	min-height: 40px;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	background: content-box;
+}
+
+
+.repoContainer p {
+	font-size: 11px;
+	line-height: 13px;
+	justify-content: center;
+	text-align: center;
+	max-width: 130px;
+	margin-left: 20px;
+	margin-top: 0px;
+	overflow: hidden;
+	background: content-box;
+	display: flex;
+	text-overflow: ellipsis;
+	color: #1C255C;
+}
+
+.repoContainer div {
+	justify-content: center;
+	display: flex;
+	background: content-box;
+}
+
+.repoContainer h4 {
+	margin-left: 10px;
+	color: #1C245C;
+	font-weight: 800;
+	margin-bottom: 11px;
+	margin-top: 16px;
+	text-align: center;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	max-width: 150px;
+	background: content-box;
+}
+
+.repoContainer .langCircle {
+	width: 13px;
+	height: 13px;
+	border-radius: 8px;
+}
+
+.contentContainer h1 {
+	width: 370px;
+	height: 28px;
+	margin-bottom: 16px;
+
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: rgba(26, 35, 91, 0.49);
+}
+
+.contentContainer img {
+	height: 75px;
+	width: 75px;
+}
+
+.contentContainer .homeWallpaper {
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}

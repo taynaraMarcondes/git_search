@@ -1,0 +1,26 @@
+.nameContainer {
+	margin-top: 30px;
+	width: 215px;
+	background: content-box;
+}
+
+.nameContainer h3 {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 21px;
+	width: 200px;
+	margin: 0px;
+	height: 21px;
+	color: #1A235B;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.nameContainer label {
+	width: 200px;
+	margin: 0px;
+	height: 16px;
+	color: #3A8E3D;
+	background: content-box;
+}
