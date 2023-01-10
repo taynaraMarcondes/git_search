@@ -20,7 +20,7 @@ Quanto aos repositórios:
 
 Para que o projeto funcione você deve seguir os seguintes passos:
 
-### Instalar o Node.js(https://nodejs.org/en/download/)
+### Instalar o [Node.js](https://nodejs.org/en/download/)
 
 Faça o download de acordo com seu sistema operacional.
 
@@ -28,7 +28,7 @@ Faça o download de acordo com seu sistema operacional.
 
 Para clonar o repositório basta colar o seguinte código no prompt de comando:
 
-`git clone`
+`git clone https://github.com/taynaraMarcondes/git_search.git`
 
 ### Instale as dependências
 
