@@ -1,6 +1,5 @@
 # Git Search
 
-Este projeto é um teste de habilidades dentro das fases de processo seletivo da Solver Tecnologias.
 O projeto é uma ferramenta de pesquisa de usuários do GitHub, onde podem ser encontrados os seguintes dados:
 - Nome do usuário
 - Username
